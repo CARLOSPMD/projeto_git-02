@@ -1,0 +1,1 @@
+num1 = input("digite um texto aqui: ")
